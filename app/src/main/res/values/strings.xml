@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="welcome_to_the_dog_game">Welcome to the dog game!</string>
+    <string name="lets_play">Lets play!</string>
+</resources>
